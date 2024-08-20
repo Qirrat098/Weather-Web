@@ -3,6 +3,7 @@
 ## Overview
 
 This is a simple weather web application built using HTML, CSS, and JavaScript. The app allows users to check current weather conditions and forecasts for various locations.
+![image](https://github.com/user-attachments/assets/7aa0b82b-0c39-4ab8-b9ce-e2efc909d6ec)
 
 ## Features
 
